@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 003"
+  short_description: "Create restrained public-issue conceptual line art."
+  default_prompt: "Use $xxd-panel-003 to compress my photo's source-grounded direction, connection, pressure, and release into sparse conceptual black line; ask first for modes and copy or language preferences."
