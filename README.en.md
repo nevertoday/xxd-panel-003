@@ -44,11 +44,25 @@ If an unrelated photograph could replace the source without materially changing 
 - **Whitespace as silence:** cold white, cream, or pale low-saturation ground dominates; the active system stays off-centre and never fills the canvas.
 - **Micro issue type:** one very short theme word or phrase behaves as a trace beside the line, never a slogan or explanation.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 003 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
+> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
 
-Future samples will demonstrate 003's adaptability. Their subjects, metaphors, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 003 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one hand-drawn logic
 

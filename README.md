@@ -44,11 +44,25 @@ XXD Panel 003 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **留白作为沉默：** 冷白、米白或低饱和浅底占主导，线条系统偏下或偏侧，不居中、不铺满。
 - **微型议题文字：** 只保留一个极短主题词或短句，像线条旁的微小痕迹，不成为口号或解释。
 
-## 样张 · 即将补充
+## 样张 · 来自 X
 
-项目已预留 [`assets/examples/`](assets/examples/) 样张目录。只有经项目作者确认、确实使用 003 完成的作品才会加入；在此之前不借用其他风格的推文或图片作为占位。
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
+> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
 
-未来样张只用于展示 003 对不同题材的适应力，不会把样张主体、隐喻、配色、文案或画幅变成生成参考或默认值。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 003 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种输出共享同一种手绘逻辑
 

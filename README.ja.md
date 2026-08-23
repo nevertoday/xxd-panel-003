@@ -45,11 +45,25 @@ XXD Panel 003 は、Codex と互換 Agent のための画像生成 Skill です�
 - **温かな紙と印刷のずれ：** 紙繊維、粗い縁、わずかな裏抜けと見当ずれを、均一ノイズではなく素材の証拠として残します。
 - **線の中の微小文字：** ごく短い語句を曲がり、交差、力点、解放の近くに置き、説明や標語にしません。
 
-## 作例 · 近日追加
+## 作例 · X より
 
-リポジトリには将来の作例用に [`assets/examples/`](assets/examples/) を用意しています。プロジェクト作者が確認した 003 の完成作品だけを追加し、それまでは別スタイルの投稿や画像を代用しません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
+> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
 
-将来の作例は 003 の応用範囲を示すだけで、主体、比喩、配色、文言、画角が生成参照や既定値になることはありません。
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 003 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 4つの出力を支えるひとつの手描きロジック
 
