@@ -1,97 +1,79 @@
-# XXD Panel 003 · Public-Issue Conceptual Line Core
+# XXD Panel 003 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/003-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 003. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Treat the one currently selected photograph as the sole content source. Never borrow subjects, line routes, symbols, issues, or copy from samples, other inputs, or historical outputs.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-## 0. Immutable aesthetic motive
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Every transformed frame must express:
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-**this exact recognisable photographed subject or inseparable relationship → extract its real direction, connection, contradiction, pressure, and turning point → compress them into one coherent family of continuous black hand-drawn lines → enter from a canvas edge, coil/cross/fold/tighten low, lateral, or near an edge → rise upward or outward toward release → let a source-bound symbolic contour emerge from the motion without fully enclosing or explaining it → preserve cold-white, cream, or pale low-saturation ground with dominant open space → make type only a tiny trace inside the line system**.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-The line may suggest taut fine wire, a path, restraint, or a wound, but must not literally become a metal object, map, cage, or bodily injury. Meaning comes from source-grounded forces and relationships—not stock fists, tears, hearts, cages, chains, ribbons, slogans, or protest icons.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-## 1. Lock source facts
+### Text generated from the original prompt
 
-Privately determine:
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-1. One principal subject or genuinely inseparable relationship.
-2. At least three source-specific cues across contour, pose/orientation, opening, connection, overlap, negative shape, relational distance, or dominant direction.
-3. The source's real direction, connection, contradiction, pressure, and turning point. Leave unsupported categories empty rather than inventing them.
-4. The line entry edge, the low/lateral zone where it coils and tightens, and the upward/outward release direction.
-5. One source-specific symbolic contour that can emerge during the motion, recognisable without becoming a complete closed outline.
-6. The exact force points where a thorn, knot, barb, or short cross-stroke may be justified.
-7. A cold-white, cream, or pale low-saturation ground that respects the photograph's atmosphere.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Never invent biography, place, event, emotion, harm, responsibility, political position, public issue, or advocacy. Copy may use only user-provided meaning or what the image reliably supports.
+### User-exact text
 
-## 2. Continuous black-line system
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-- Use one line or a small family belonging to one coherent black or near-black hand-drawn system. Never mechanically trace the photograph.
-- Keep line predominantly fine, with slight width variation, ink friction, hesitation, breaks, renewed joins, and pressure.
-- Give the route causality: entry, coiling, crossing, folding back, tightening, passage, lift, and release. Every turn corresponds to a source fact.
-- Let identity emerge through negative shape, crossing, and directional change rather than a closed icon, badge, or explanatory diagram.
-- Reject smooth Bézier curves, uniform vector stroke, neon line, 3D wire, shadow, glow, and realistic volume.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-## 3. Force marks, not ornament
+### No text
 
-- Thorns, knots, barbs, and short cross-strokes appear only at genuine force, crossing, or directional-change points.
-- Every mark has a structural role: obstruction, tightening, fixing, friction, rupture, or turn.
-- Do not repeat one symbol evenly. Never turn the system into barbed-wire texture, vine ornament, tattoo, or pattern.
-- Add no unrelated face, hand, bird, cage, lock, tear, red cross, exclamation mark, map, flag, or slogan.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-## 4. Composition and silence
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-- Use cold white, cream, or a pale low-saturation ground. Dominant open space is silence and tension, not empty decoration space.
-- Keep the active system low, lateral, or near an edge. Never centre it, enlarge it to fill the canvas, or balance it like a logo.
-- The usual reading path enters from an edge, becomes constrained low, then releases upward or outward; the source decides the actual direction.
-- Keep the image quiet yet tense, minimal but not easy. Remove background reconstruction, realistic light, complex scenery, and meaningless visual richness.
-- Default to black or near-black line only. If the user explicitly requires colour, allow at most one extremely pale source-derived ground tint or one tiny evidence-led mark.
-
-## 5. Typography specific to 003
-
-Type is **a tiny trace inside the line system**. It neither explains the image nor becomes a slogan or focal point.
-
-- Automatic copy distils one very short theme word or phrase from a source-supported relationship, pressure, passage, turning point, or release without assigning an advocacy position.
-- Default to one tiny text element. Add one still-smaller number, verified place, or note only when supplied or reliably supported.
-- Use fine, restrained letterforms with slight absorbed-ink character and native shaping, punctuation, spacing, and reading direction for the resolved locale.
-- Place type in open space near one bend, crossing, force point, or release, without sitting on the line or obscuring the recognisable contour.
-- Reject large headlines, bold slogans, explanatory paragraphs, data walls, pseudo-foreign text, decorative letters, and invented numbers.
-- Preserve final user wording verbatim. Text-free mode contains no letters, characters, numbers, or pseudo-text.
-
-## 6. Current mode and wallpaper
-
-The caller appends the one resolved mode, exact dimensions, source visibility, and locked copy. Execute only those values.
-
-- Paired output generates only the transformed frame; photography is prepared and composed separately.
-- Design-only and wallpapers contain no source photo, seam, or photographic placeholder.
-- Recompose every wallpaper's entry edge, low force zone, release direction, and system-UI safe areas for its target aspect. Render no clock, icons, dock, controls, or device frame.
-- In linked wallpaper, the source locks content and force facts; the anchor locks only line grammar, friction, sparsity, tension scale, pale ground, and microtype. Never crop or chain derivatives.
-
-## 7. Pre-generation check
-
-1. At least three source-specific cues keep the subject or relation perceptible.
-2. Direction, connection, contradiction, pressure, and turning point are source-grounded; no issue was invented.
-3. Black line enters from an edge, coils/crosses/folds/tightens low or lateral, then releases upward or outward.
-4. The symbolic contour emerges through motion and negative shape rather than becoming a closed icon or mechanical trace.
-5. Line shows friction, hesitation, breaks, and pressure; every thorn, knot, barb, and short stroke sits at a justified force point.
-6. Cold white, cream, or pale ground dominates with ample silence; there is no multicolour fill, complex scene, realistic light, 3D, or decorative curve.
-7. Copy is exact, minimal, locale-correct, and subordinate to line; text-free mode is completely text-free.
-8. Mode, dimensions, source visibility, wallpaper safe areas, and copy obey the appended values.
-9. There is no overview collage, logo, watermark, UI, mockup, second focus, or unrelated symbol.
+```text
+complete verbatim 003-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
