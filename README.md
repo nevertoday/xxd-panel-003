@@ -22,6 +22,26 @@ XXD Panel 003 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 画面不复制照片表面，而是从源图事实中找到一个聪明、轻巧、可回看的视觉转化。它融合现代主义编辑插画、包豪斯秩序、绘本温度和时装速写的松弛感；文字像画者顺手留下的克制手写注记，而不是后来贴上去的广告标题。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
+> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 003 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 003
 
 普通“极简线条”很容易退化成漂亮但空洞的装饰曲线、机械一笔画，或套用拳头、牢笼、泪滴、铁链等公共议题图标。
@@ -43,26 +63,6 @@ XXD Panel 003 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **力点标记：** 尖刺、结点、倒钩或短横只放在真实受力、交叉和转向处，不能均匀装饰。
 - **留白作为沉默：** 冷白、米白或低饱和浅底占主导，线条系统偏下或偏侧，不居中、不铺满。
 - **微型议题文字：** 只保留一个极短主题词或短句，像线条旁的微小痕迹，不成为口号或解释。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
-> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 003 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

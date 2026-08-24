@@ -22,6 +22,26 @@ XXD Panel 003 is an image-generation Skill for Codex and compatible agents. Rath
 
 The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
+> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 003 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 “Minimal line art” easily collapses into attractive but empty decorative looping, mechanical one-line tracing, or stock issue icons such as fists, cages, tears, and chains.
@@ -43,26 +63,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Functional force marks:** thorns, knots, barbs, or short strokes occur only at real pressure, crossing, or turning points.
 - **Whitespace as silence:** cold white, cream, or pale low-saturation ground dominates; the active system stays off-centre and never fills the canvas.
 - **Micro issue type:** one very short theme word or phrase behaves as a trace beside the line, never a slogan or explanation.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
-> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 003 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 003 sample 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 003 sample 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 003 sample 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 003 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 
