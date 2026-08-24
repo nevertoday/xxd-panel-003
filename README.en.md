@@ -42,7 +42,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
 
 These samples demonstrate the 003 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 003 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Compress direction, connection, pressure, and release into quiet yet tense conceptual black line |
+| **Recognizable signature** | CONTINUOUS BLACK LINE · PUBLIC ISSUE · FORCE POINTS · SILENT SPACE · RELEASE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Minimal line art” easily collapses into attractive but empty decorative looping, mechanical one-line tracing, or stock issue icons such as fists, cages, tears, and chains.
 
@@ -54,7 +65,7 @@ lock identity and force facts → plan entry, entanglement, and tightening → l
 
 If an unrelated photograph could replace the source without materially changing the route, crossings, pressure points, emergent contour, or copy, the result is not 003.
 
-## The 003 visual contract
+## What makes the finished style recognizable
 
 - **Source-grounded forces:** retain at least three identity cues and identify only evidenced direction, connection, contradiction, pressure, and turning point; invent no issue.
 - **Continuous black route:** enter from an edge, coil/cross/fold/tighten low, lateral, or near an edge, then release upward or outward.
