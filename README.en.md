@@ -16,16 +16,7 @@
 
 </div>
 
-> CONTINUOUS BLACK LINE · PUBLIC ISSUE · FORCE POINTS · SILENT SPACE · RELEASE
-
-XXD Panel 003 is an image-generation Skill for Codex and compatible agents. Rather than tracing the photograph, it locks identity and relation, then compresses source-grounded direction, connection, contradiction, pressure, and turning point into continuous black hand-drawn line. The line enters from an edge, coils, crosses, folds, and tightens low or lateral, then releases upward or outward; identity emerges through motion and negative shape without being fully explained.
-
-The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
-> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ The result does not trace the photograph's surface. It finds one intelligent, pl
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089959872876228689) · 2026-08-19<br>
+> GPT2 x 转绘 x 带刺 x 线条 x 美学提示词 x VOL.003
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089959872876228689">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 003 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> CONTINUOUS BLACK LINE · PUBLIC ISSUE · FORCE POINTS · SILENT SPACE · RELEASE
+
+XXD Panel 003 is an image-generation Skill for Codex and compatible agents. Rather than tracing the photograph, it locks identity and relation, then compresses source-grounded direction, connection, contradiction, pressure, and turning point into continuous black hand-drawn line. The line enters from an edge, coils, crosses, folds, and tightens low or lateral, then releases upward or outward; identity emerges through motion and negative shape without being fully explained.
+
+The result does not trace the photograph's surface. It finds one intelligent, playful, source-bound transformation and combines modernist editorial drawing, Bauhaus order, picture-book warmth, and the ease of a fashion sketch. Type feels like a restrained note left by the illustrator, not an advertising headline pasted on later.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 003 right for you?
