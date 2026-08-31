@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 003
+# 🦁 XXD Panel 003｜张力线语
 
 ### 把照片里的方向、连接、压力与转机压缩成安静而紧张的黑色观念线条
 

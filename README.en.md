@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 003
+# 🦁 XXD Panel 003｜Taut Line Language
 
 ### Compress direction, connection, pressure, and release into quiet yet tense conceptual black line
 
