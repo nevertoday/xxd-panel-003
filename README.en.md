@@ -86,6 +86,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -102,28 +111,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-“Minimal line art” easily collapses into attractive but empty decorative looping, mechanical one-line tracing, or stock issue icons such as fists, cages, tears, and chains.
-
-003 reverses that logic:
-
-```text
-lock identity and force facts → plan entry, entanglement, and tightening → let identity emerge through crossings and negative shape → release upward or outward at the turning point → add knots or barbs only at real force points → reduce type to a tiny trace beside the line
-```
-
-If an unrelated photograph could replace the source without materially changing the route, crossings, pressure points, emergent contour, or copy, the result is not 003.
-
-## What makes the finished style recognizable
-
-- **Source-grounded forces:** retain at least three identity cues and identify only evidenced direction, connection, contradiction, pressure, and turning point; invent no issue.
-- **Continuous black route:** enter from an edge, coil/cross/fold/tighten low, lateral, or near an edge, then release upward or outward.
-- **Emergence, not tracing:** identity appears through route, crossing, and negative shape; it may stay open but must remain perceptible.
-- **Pressured hand line:** fine black or near-black line carries slight width shifts, friction, hesitation, breaks, and renewed joins—never smooth Bézier polish.
-- **Functional force marks:** thorns, knots, barbs, or short strokes occur only at real pressure, crossing, or turning points.
-- **Whitespace as silence:** cold white, cream, or pale low-saturation ground dominates; the active system stays off-centre and never fills the canvas.
-- **Micro issue type:** one very short theme word or phrase behaves as a trace beside the line, never a slogan or explanation.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
