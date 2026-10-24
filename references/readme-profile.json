@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 003｜Taut Line Language: compresses the direction, connection, pressure and release in a photo into one quiet but tense conceptual drawing made of continuous black hand-drawn line — like pulled wire, a path, a binding or a wound — that enters from the edge, coils, crosses, tightens and rises until a symbolic outline of the subject appears, with small thorns or knots only where the line is under strain, the subject placed low or off to one side on wide cool-white or off-white space, no colour fills, and at most a tiny keyword, number or short line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-003 or asks for conceptual black line, social-issue or modernist idea-poster drawing from a photo.",
+  "short_description": "张力线语：把照片里的方向、牵连和压力收成一根安静又紧绷的黑色连续线",
+  "zh-CN": {
+    "name": "张力线语",
+    "tagline": "把照片里的方向、牵连、压力和转机，收成一组安静又紧绷的黑色连续线。",
+    "look": "画面不是给照片描边，而是一组连续的黑色手绘线，像拉紧的细铁丝、小路、绳索或伤口：从画面边缘进来，在下方盘绕、交错、回折、收紧，再慢慢向上或向外抬起，途中显出和原主体有关的象征轮廓，不必画完整。线有粗细变化和墨的摩擦、断续，只在受力、交叉和转向处出现小刺、结点或短横。底色是冷白、米白或很浅的低饱和色，大片留白，主体偏下、偏侧或贴近边缘。文字极少，只是一个细小的主题词、编号或短句，藏在空白或线的转折处。",
+    "traits": [
+      "连续黑线",
+      "公共议题",
+      "压力与连接",
+      "大留白",
+      "观念"
+    ],
+    "good": [
+      "有方向或张力的画面：爬楼梯的人、逆风弯下的树、一座桥、拉紧的绳子",
+      "表达连接或束缚的瞬间：两只交握的手、被围栏隔开的人、牵着的狗绳",
+      "想用来讲社会话题、文章观点或展览主题的照片"
+    ],
+    "poor": [
+      "想要可爱、热闹、色彩丰富效果的图",
+      "需要还原具体细节的照片：产品、证件照、菜品",
+      "主体只是静静摆着、看不出动作和关系的画面，线条会缺少可以表达的力量"
+    ]
+  },
+  "en": {
+    "name": "Taut Line Language",
+    "tagline": "Pulls the direction, connection, pressure and release in a photo into one quiet, tense black continuous line.",
+    "look": "This is not a traced outline. A continuous black hand-drawn line, like pulled wire, a path, a rope or a wound, enters from the edge, coils, crosses, folds back and tightens near the bottom, then slowly lifts upward or outward, revealing a symbolic outline of your subject along the way without fully closing it. The line varies in weight and keeps the drag and breaks of ink, with small thorns, knots or short ticks only where it is under strain, crosses or turns. The ground is cool white, off-white or a very pale muted tone, with wide empty space and the subject low, to one side or near an edge. Text is minimal: one tiny keyword, number or short line tucked into the space or a bend of the line.",
+    "traits": [
+      "Continuous black line",
+      "Social themes",
+      "Pressure and connection",
+      "Wide whitespace",
+      "Conceptual"
+    ],
+    "good": [
+      "Pictures with direction or tension: someone climbing stairs, a tree bent by wind, a bridge, a rope pulled tight",
+      "Moments of connection or restraint: two clasped hands, people separated by a fence, a dog on a leash",
+      "Photos meant to carry a social topic, an essay's argument or an exhibition theme"
+    ],
+    "poor": [
+      "Requests for a cute, busy or colourful look",
+      "Photos whose details must be reproduced: products, ID photos, dishes",
+      "Subjects that simply sit still with no movement or relationship, which give the line nothing to express"
+    ]
+  },
+  "ja": {
+    "name": "緊張感のある線の言葉",
+    "tagline": "写真の中の方向、つながり、圧力、転機を、静かで張りつめた黒い一本の線にまとめます。",
+    "look": "写真をなぞるのではなく、黒い手描きの連続線で描きます。張った針金、道、縄、傷のような線が画面の端から入り、下のほうで巻き、交差し、折り返し、締まってから、ゆっくり上や外へ持ち上がり、その途中で主役にまつわる象徴的な輪郭が現れます。輪郭は閉じきらなくてかまいません。線には太さの揺れや墨のかすれ、途切れがあり、力がかかる場所や交差、方向が変わる場所にだけ小さなとげや結び目、短い横線が出ます。地は冷たい白、生成り、ごく淡い色で、余白を大きくとり、主役は下寄せ、片寄せ、端寄りに置きます。文字はごくわずかで、小さなテーマ語、番号、短い一言を余白や線の曲がり角に忍ばせます。",
+    "traits": [
+      "黒い連続線",
+      "社会的テーマ",
+      "圧力とつながり",
+      "大きな余白",
+      "コンセプト"
+    ],
+    "good": [
+      "方向や緊張のある写真：階段を上る人、風にしなる木、橋、ぴんと張ったロープ",
+      "つながりや束縛を感じる瞬間：握り合う手、柵で隔てられた人、リードにつながれた犬",
+      "社会的な話題や記事の主張、展覧会のテーマを伝えたい写真"
+    ],
+    "poor": [
+      "かわいさ、にぎやかさ、色の多さを求める場合",
+      "細部の再現が必要な写真：商品、証明写真、料理",
+      "動きも関係もなく、ただ置かれているだけの被写体（線が表現する力を持てません）"
+    ]
+  },
+  "ko": {
+    "name": "긴장감 있는 선의 언어",
+    "tagline": "사진 속 방향, 연결, 압박, 전환을 고요하지만 팽팽한 검은 연속선 하나로 묶습니다.",
+    "look": "사진을 따라 그리는 것이 아니라 검은 손그림 연속선으로 그립니다. 팽팽한 철사, 길, 밧줄, 상처 같은 선이 화면 가장자리에서 들어와 아래쪽에서 감기고, 엇갈리고, 꺾이고, 조여든 뒤 천천히 위나 바깥으로 올라가며, 그 과정에서 주인공과 관련된 상징적 윤곽이 드러납니다. 윤곽이 완전히 닫힐 필요는 없습니다. 선에는 굵기 변화와 먹의 마찰, 끊김이 있고, 힘이 걸리거나 교차하거나 방향이 바뀌는 곳에만 작은 가시, 매듭, 짧은 가로선이 생깁니다. 바탕은 차가운 흰색, 미색, 아주 옅은 저채도 색이며, 여백을 크게 두고 주인공은 아래나 한쪽, 가장자리 가까이에 둡니다. 글자는 아주 적게, 작은 주제어나 번호, 짧은 문장 하나를 여백이나 선이 꺾이는 곳에 숨깁니다.",
+    "traits": [
+      "검은 연속선",
+      "사회적 주제",
+      "압박과 연결",
+      "넓은 여백",
+      "개념"
+    ],
+    "good": [
+      "방향이나 긴장감이 있는 사진: 계단을 오르는 사람, 바람에 휜 나무, 다리, 팽팽한 밧줄",
+      "연결이나 속박이 느껴지는 순간: 맞잡은 두 손, 울타리로 갈라진 사람들, 목줄에 묶인 강아지",
+      "사회적 이슈, 글의 주장, 전시 주제를 담고 싶은 사진"
+    ],
+    "poor": [
+      "귀엽고 북적이며 색이 풍부한 느낌을 원하는 경우",
+      "세부를 재현해야 하는 사진: 제품, 증명사진, 음식",
+      "움직임도 관계도 없이 그냥 놓여 있는 대상(선이 표현할 힘이 생기지 않습니다)"
+    ]
+  },
+  "ar": {
+    "name": "لغة الخط المشدود",
+    "tagline": "يجمع الاتجاه والصلة والضغط والانفراج في الصورة داخل خط أسود متصل هادئ ومشدود.",
+    "look": "لا يُعاد تتبّع حواف الصورة، بل يُرسم خط أسود متصل باليد، كسلك مشدود أو طريق أو حبل أو جرح، يدخل من حافة الإطار ويلتف ويتقاطع وينثني ويشتد في الأسفل، ثم يرتفع ببطء نحو الأعلى أو الخارج، فيظهر في أثناء ذلك شكل رمزي مرتبط بالعنصر الأصلي من دون أن يكتمل بالضرورة. يتفاوت سمك الخط ويحتفظ باحتكاك الحبر وانقطاعه، ولا تظهر الأشواك الصغيرة أو العُقد أو الشرطات إلا حيث يقع الشد أو التقاطع أو تغيّر الاتجاه. الأرضية بيضاء باردة أو بيضاء مائلة إلى الكريمي أو بلون باهت جداً، مع فراغ واسع، والعنصر في الأسفل أو جانباً أو قرب الحافة. النص قليل جداً: كلمة صغيرة أو رقم أو جملة قصيرة مخبّأة في الفراغ أو عند انعطاف الخط.",
+    "traits": [
+      "خط أسود متصل",
+      "قضايا عامة",
+      "الضغط والصلة",
+      "فراغ واسع",
+      "مفاهيمي"
+    ],
+    "good": [
+      "صور فيها اتجاه أو توتر: شخص يصعد درجاً، شجرة تنحني مع الريح، جسر، حبل مشدود",
+      "لحظات صلة أو تقييد: يدان متشابكتان، أشخاص يفصلهم سياج، كلب مربوط بمقود",
+      "صور يُراد بها التعبير عن قضية اجتماعية أو فكرة مقال أو موضوع معرض"
+    ],
+    "poor": [
+      "طلب مظهر لطيف أو صاخب أو كثير الألوان",
+      "صور يجب نقل تفاصيلها: منتجات، صور الهوية، أطباق الطعام",
+      "عناصر ساكنة بلا حركة ولا علاقة، فلا يجد الخط ما يعبّر عنه"
+    ]
+  }
+}
